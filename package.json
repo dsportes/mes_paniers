@@ -1,0 +1,9 @@
+{
+    "name": "paniers",
+    "version": "0.0.1",
+    "description": "Analyse des paniers moyens mensuels",
+    "productName": "paniers",
+    "dependencies": {
+        "xlsx": "^0.15.6"
+    }
+}
