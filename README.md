@@ -23,3 +23,5 @@ Des arguments facultatifs peuvent être donnés après "main.js":
 - nbmoisactif=3 : un coop est considéré comme actif pour un mois M s'il a fait au moins un achat au cours des trois derniers mois (M inclus)
 - nbtranches=5 : les moyennes des paniers sont décomptés sur 5 tranches (vingtiles), ou 10 tranches (déciles)
 - voirnoms=vrai : par défaut les ventes des coops sur les mois considérés sont masqués mais on peut forcer à les voir.
+
+- cloné P le 15 avril 2021
